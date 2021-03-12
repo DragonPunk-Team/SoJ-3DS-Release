@@ -1,6 +1,6 @@
 # Ace Attorney: Spirit of Justice - Traduzione italiana a cura del DragonPunk Team
 
-## Potete scaricare la patch da qui: https://github.com/DragonPunk-Team/SoJ-3DS-Release/releases
+## Scarica la patch da [qui](https://github.com/DragonPunk-Team/SoJ-3DS-Release/releases)!
 
 _Ultima release: v0.2.2 (12 marzo 2021)_
 
