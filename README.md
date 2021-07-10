@@ -6,7 +6,9 @@
 
 _Ultima release: v0.3.0 (10 luglio 2021)_
 
-## Guida all'installazione su 3DS - Metodo custom update (consigliato)
+# Guida all'installazione su 3DS
+
+## Metodo custom update (consigliato)
 
 *Si consiglia di collegare il 3DS alla corrente durante l'intero processo.*
 
@@ -26,7 +28,7 @@ _Ultima release: v0.3.0 (10 luglio 2021)_
 
 6. Selezionate *Install* per installare il file CIA (oppure *Install and Delete* se volete che il file CIA venga cancellato subito dopo l'installazione).
 
-## Guida all'installazione su 3DS - Metodo Luma3DS (LayeredFS)
+## Metodo Luma3DS (LayeredFS)
 
 0. Se non lo avete ancora fatto, moddate il vostro 3DS seguendo la guida sul sito https://3ds.hacks.guide/it_IT/.
 
