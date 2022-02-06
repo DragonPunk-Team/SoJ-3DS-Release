@@ -4,7 +4,7 @@
 - [Versione custom update (consigliata)](https://github.com/DragonPunk-Team/SoJ-3DS-Release/releases/latest)
 - [Versione Luma3DS (LayeredFS)](https://www.mediafire.com/file/vb62fhxqonj6ekh/%255BDPT%255D_Spirit_of_Justice_-_Casi_1-3_%2528Luma%2529.zip/file)
 
-_Ultima release: v0.3.0 (10 luglio 2021)_
+_Ultima release: v0.4.0 (6 febbraio 2022)_
 
 # Guida all'installazione su 3DS
 
@@ -22,11 +22,7 @@ _Ultima release: v0.3.0 (10 luglio 2021)_
 
 **ATTENZIONE:** il processo di patching è piuttosto lungo, potrebbe risultare lento in alcune parti, ma abbiate un po' di pazienza e andrà a buon fine.
 
-4. Dopo aver riavviato il 3DS come da istruzioni a schermo, aprite *FBI*.
-
-5. Selezionate *SD* > *3ds* > *DragonPunkTeam* > *SoJ-ITA-DPT-v0.3.0.cia*.
-
-6. Selezionate *Install* per installare il file CIA (oppure *Install and Delete* se volete che il file CIA venga cancellato subito dopo l'installazione).
+4. Dopo aver riavviato il 3DS come da istruzioni a schermo, vi basterà avviare il gioco: la patch sarà stata applicata automaticamente.
 
 ## Metodo Luma3DS (LayeredFS)
 
