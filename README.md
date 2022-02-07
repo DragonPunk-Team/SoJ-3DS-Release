@@ -2,7 +2,7 @@
 
 ## Scarica la patch
 - [Versione custom update (consigliata)](https://github.com/DragonPunk-Team/SoJ-3DS-Release/releases/latest)
-- [Versione Luma3DS (LayeredFS)](https://www.mediafire.com/file/vb62fhxqonj6ekh/%255BDPT%255D_Spirit_of_Justice_-_Casi_1-3_%2528Luma%2529.zip/file)
+- [Versione Luma3DS (LayeredFS)](https://www.mediafire.com/file/5wnfgy50uhlxaii/%255BDPT%255D_Spirit_of_Justice_-_Casi_1-4_%2528Luma%2529.zip/file)
 
 _Ultima release: v0.4.0 (6 febbraio 2022)_
 
