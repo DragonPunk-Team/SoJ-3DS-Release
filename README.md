@@ -2,17 +2,17 @@
 
 ## Scarica la patch
 - [Versione custom update (consigliata)](https://github.com/DragonPunk-Team/SoJ-3DS-Release/releases/latest)
-- [Versione Luma3DS (LayeredFS)](https://www.mediafire.com/file/5wnfgy50uhlxaii/%255BDPT%255D_Spirit_of_Justice_-_Casi_1-4_%2528Luma%2529.zip/file)
+- [Versione Luma3DS (LayeredFS)](https://www.mediafire.com/file/rx4ne8pd71n51ty/%255BDPT%255D_Spirit_of_Justice_-_Casi_1-5_%2528Luma%2529.zip/file)
 
-_Ultima release: v0.4.0 (6 febbraio 2022)_
+_Ultima release: v1.0 (25 dicembre 2023)_
 
 # Guida all'installazione su 3DS
 
+**IMPORTANTE:** Se non lo avete ancora fatto, moddate il vostro 3DS seguendo la guida sul sito https://3ds.hacks.guide/it_IT/.
+
 ## Metodo custom update (consigliato)
 
-*Si consiglia di collegare il 3DS alla corrente durante l'intero processo.*
-
-0. Se non lo avete ancora fatto, moddate il vostro 3DS seguendo la guida sul sito https://3ds.hacks.guide/it_IT/.
+*Si consiglia di tenere il 3DS collegato al caricabatterie durante l'intero processo.*
 
 1. Dopo aver scaricato la patch, estraete le cartelle nello ZIP sulla SD, nella cartella principale (`sd:/`).
 
@@ -20,13 +20,11 @@ _Ultima release: v0.4.0 (6 febbraio 2022)_
 
 3. Selezionate `SoJ-Patcher` e seguite le istruzioni a schermo.
 
-**ATTENZIONE:** il processo di patching è piuttosto lungo, potrebbe risultare lento in alcune parti, ma abbiate un po' di pazienza e andrà a buon fine.
+**ATTENZIONE:** il processo di patching è piuttosto lungo, potrebbe risultare lento in alcune parti (soprattutto nelle ultime fasi), ma abbiate un po' di pazienza e andrà a buon fine.
 
-4. Dopo aver riavviato il 3DS come da istruzioni a schermo, vi basterà avviare il gioco: la patch sarà stata applicata automaticamente.
+4. Dopo aver riavviato il 3DS, aprite il gioco: la patch sarà stata installata e applicata automaticamente.
 
 ## Metodo Luma3DS (LayeredFS)
-
-0. Se non lo avete ancora fatto, moddate il vostro 3DS seguendo la guida sul sito https://3ds.hacks.guide/it_IT/.
 
 *Se avete già un 3DS moddato e avete già attivato l'impostazione **Enable game patching**, saltate al passaggio 4.*
 
