@@ -38,4 +38,4 @@ _Ultima release: v1.0 (25 dicembre 2023)_
 
 ---
 
-Seguiteci su [Facebook](https://www.facebook.com/DRAGONPUNKTEAM) e [Instagram](https://www.instagram.com/dragonpunkteam/) e visitate il nostro [Carrd](https://dragonpunkteam.carrd.co/) per maggiori informazioni suoi nostri progetti!
+Seguiteci su [Facebook](https://www.facebook.com/DRAGONPUNKTEAM) e [Instagram](https://www.instagram.com/dragonpunkteam/) e visitate il nostro [Sito]([https://dragonpunkteam.carrd.co/](https://dragonpunkteam.altervista.org/)) per maggiori informazioni suoi nostri progetti!
